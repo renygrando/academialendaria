@@ -1,3 +1,7 @@
-# academialendaria
+# Academia Lendária - Testes
 
-Testes para Academia Lendária - Engenharia de Prompt - ok
+## 1 - Construção de um Super Agente para Engenharia de Prompt
+
+## 2 - Prompt de Imagem Replicável para o Marketing
+
+## 3 - Criação de Dataset para Fine-Tuning
