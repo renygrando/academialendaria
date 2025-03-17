@@ -1,4 +1,4 @@
-# Academia Lendária - Testes
+# Academia Lendária
 
 ## [1 - Construção de um Super Agente para Engenharia de Prompt](https://github.com/renygrando/academialendaria/tree/main/1%20-%20Constru%C3%A7%C3%A3o%20de%20um%20Super%20Agente%20para%20Engenharia%20de%20Prompt)
 
